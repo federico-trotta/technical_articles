@@ -2,6 +2,8 @@
 Here's an overview of some of my articles on Medium, many of which published by [Towards Data Science](https://towardsdatascience.com/).
 
 ## "HOW TO"
+- [How to Study Python for Data Science](https://towardsdatascience.com/how-to-study-python-for-data-science-888a1ad649ae?source=your_stories_page-------------------------------------)
+- [How to Study Data Science even if you Work (or Study) Full Time](https://towardsdatascience.com/how-to-study-data-science-even-if-you-work-or-study-full-time-b52ace31edac)
 - [How to Convert a CSV file into an XLSX one with Python and Pandas](https://towardsdatascience.com/how-to-convert-a-csv-file-into-an-xlsx-one-with-python-and-pandas-27aabc279d69?source=your_stories_page-------------------------------------)
 - [How To Deal With Missing Values in Data Science](https://towardsdatascience.com/how-to-deal-with-missing-values-in-data-science-9e5a56fbe928?source=your_stories_page-------------------------------------)
 - [How to Perform Feature Selection in a Data Science Project](https://towardsdatascience.com/how-to-deal-with-missing-values-in-data-science-9e5a56fbe928?source=your_stories_page-------------------------------------)
@@ -14,8 +16,10 @@ Here's an overview of some of my articles on Medium, many of which published by 
 
 ## Programming and Data Science Theory
 - [Loops and statements in Python: A deep understanding (with examples)](https://towardsdatascience.com/loops-and-statements-in-python-a-deep-understanding-with-examples-2099fc6e37d7?source=your_stories_page-------------------------------------)
+- [Python Loops: A Complete Guide On How To Iterate in Python](https://towardsdatascience.com/python-loops-a-complete-guide-on-how-to-iterate-in-python-b29e0d12211d)
+- [What is the Difference between a Barplot and a Histogram?](https://towardsdatascience.com/what-is-the-difference-between-a-barplot-and-a-histogram-e62d0e532e7d)
 - [The Difference Between Correlation and Regression](https://towardsdatascience.com/the-difference-between-correlation-and-regression-134a5b367f7c?source=your_stories_page-------------------------------------)
 - [Understanding l1 and l2 Regularization](https://towardsdatascience.com/understanding-l1-and-l2-regularization-93918a5ac8d0?source=your_stories_page-------------------------------------)
 - [Logistic Regression: Let’s Clear It Up!](https://medium.com/mlearning-ai/logistic-regression-lets-clear-it-up-8bf20e9b328a?source=your_stories_page-------------------------------------)
 - [What is a Trained Model?](https://towardsdatascience.com/what-is-a-trained-model-5c872cfa8448?source=your_stories_page-------------------------------------)
-- [How to Study Python for Data Science](https://towardsdatascience.com/how-to-study-python-for-data-science-888a1ad649ae?source=your_stories_page-------------------------------------)
+- [Why You Have To Learn GIT Right Now If You Are a Beginner in Data Science](https://towardsdatascience.com/why-you-have-to-learn-git-right-now-if-you-are-a-beginner-in-data-science-34c08772cad2)
