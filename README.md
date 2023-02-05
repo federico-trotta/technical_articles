@@ -15,6 +15,8 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [How to calculate RGB values for some images in Python](https://medium.com/analytics-vidhya/how-to-calculate-rgb-values-for-some-images-in-python-ccf9abcea8f3?source=your_stories_page-------------------------------------)
 - [Two Methods for Performing Graphical Residuals Analysis](https://towardsdatascience.com/two-methods-for-performing-graphical-residuals-analysis-6899fd4c78e5)
  - [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
+ - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
+
  
 
 ## Programming and Data Science Theory
@@ -26,7 +28,7 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [Logistic Regression: Let’s Clear It Up!](https://medium.com/mlearning-ai/logistic-regression-lets-clear-it-up-8bf20e9b328a?source=your_stories_page-------------------------------------)
 - [What is a Trained Model?](https://towardsdatascience.com/what-is-a-trained-model-5c872cfa8448?source=your_stories_page-------------------------------------)
 - [Why You Have To Learn GIT Right Now If You Are a Beginner in Data Science](https://towardsdatascience.com/why-you-have-to-learn-git-right-now-if-you-are-a-beginner-in-data-science-34c08772cad2)
-
+- [5 Python Libraries to Learn to Start Your Data Science Career](https://towardsdatascience.com/5-python-libraries-to-learn-to-start-your-data-science-career-2cd24a223431)
 
 ## Miscellaneous
 - [Do You Want to Standardize and Speed Up Your SQL? Then Try RASGO!](https://medium.com/geekculture/do-you-want-to-standardize-and-speed-up-your-sql-then-try-rasgo-873349dd3fe)
@@ -37,3 +39,10 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [Is Machine Learning an Enemy to Humans, or Do Humans Have the Wrong Point of View?](https://medium.com/mlearning-ai/is-machine-learning-an-enemy-to-humans-or-do-humans-have-the-wrong-point-of-view-2e0d5c7f9137)
 - [The weight of data](https://towardsdatascience.com/the-weight-of-data-cfbb0032dec0)
 - [Some Philosophical Thoughts on Data Science](https://towardsdatascience.com/some-philosophical-thoughts-on-data-science-c33659ec63f6)
+- [How I Graduated While Working Full-Time (and Having a Family)](https://medium.com/illumination/how-i-graduated-while-working-full-time-and-having-a-family-176a97f64a5e)
+- [AI Is Writing Content: Are You Losing Your Job?](https://federicotrotta.medium.com/ai-is-writing-content-are-you-losing-your-job-8ce653dc7739)
+- [Can I Sell AI-Generated Images?](https://medium.com/mlearning-ai/can-i-sell-ai-generated-images-a5d4619c8e1b)
+- [How I Stopped the Fear of “I Have to Know Everything”](https://betterhumans.pub/how-i-stopped-the-fear-of-i-have-to-know-everything-24fe86a1c8f4)
+- [Why I Stopped Sending CVs to Recruiters](https://betterhumans.pub/why-i-stopped-sending-cvs-to-recruiters-304a90eada69)
+- [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
+- [Why You Should Cultivate your Hobbies (Without Feeling Guilty)](https://medium.com/illumination/why-you-should-cultivate-your-hobbies-without-feeling-guilty-aa5fa10ab670)
