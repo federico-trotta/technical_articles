@@ -46,3 +46,9 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [Why I Stopped Sending CVs to Recruiters](https://betterhumans.pub/why-i-stopped-sending-cvs-to-recruiters-304a90eada69)
 - [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
 - [Why You Should Cultivate your Hobbies (Without Feeling Guilty)](https://medium.com/illumination/why-you-should-cultivate-your-hobbies-without-feeling-guilty-aa5fa10ab670)
+
+<hr>
+
+# Guest articles
+
+- Butler Scientifics: [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
