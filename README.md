@@ -1,5 +1,5 @@
-# My Technical Articles on MEDIUM
-Here's an overview of some of my articles on Medium, many of which published by [Towards Data Science](https://towardsdatascience.com/).
+# My Articles on MEDIUM
+Here's an overview of some of my articles on Medium.
 
 ## "HOW TO"
 - [How to Study Python for Data Science](https://towardsdatascience.com/how-to-study-python-for-data-science-888a1ad649ae?source=your_stories_page-------------------------------------)
@@ -18,11 +18,12 @@ Here's an overview of some of my articles on Medium, many of which published by 
  - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
 
 
-## General Programming
+## Programming
 - [Loops and statements in Python: A deep understanding (with examples)](https://towardsdatascience.com/loops-and-statements-in-python-a-deep-understanding-with-examples-2099fc6e37d7?source=your_stories_page-------------------------------------)
 - [Python Loops: A Complete Guide On How To Iterate in Python](https://towardsdatascience.com/python-loops-a-complete-guide-on-how-to-iterate-in-python-b29e0d12211d)
 - [Bash to Python: The Ultimate Guide to Setting and Using Environment Variables](https://medium.com/codex/bash-to-python-the-ultimate-guide-to-setting-and-using-environment-variables-8535855e2ec4)
 - [Do You Need to Load Heavy Files on GitHub? Try This!](https://levelup.gitconnected.com/do-you-need-to-load-heavy-files-on-github-try-this-4fa415eebe1c)
+- [Bash to Python: The Ultimate Guide to Setting and Using Environment Variables](https://medium.com/codex/bash-to-python-the-ultimate-guide-to-setting-and-using-environment-variables-8535855e2ec4)
 
 ## Data Science
 - [What is the Difference between a Barplot and a Histogram?](https://towardsdatascience.com/what-is-the-difference-between-a-barplot-and-a-histogram-e62d0e532e7d)
@@ -39,6 +40,7 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [The weight of data](https://towardsdatascience.com/the-weight-of-data-cfbb0032dec0)
 - [Some Philosophical Thoughts on Data Science](https://towardsdatascience.com/some-philosophical-thoughts-on-data-science-c33659ec63f6)
 - [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
+- [Mastering the Art of Regression Analysis: 5 Key Metrics Every Data Scientist Should Know](https://towardsdatascience.com/mastering-the-art-of-regression-analysis-5-key-metrics-every-data-scientist-should-know-1e2a8a2936f5)
 
 ## Miscellaneous
 - [Do You Want to Standardize and Speed Up Your SQL? Then Try RASGO!](https://medium.com/geekculture/do-you-want-to-standardize-and-speed-up-your-sql-then-try-rasgo-873349dd3fe)
@@ -46,11 +48,16 @@ Here's an overview of some of my articles on Medium, many of which published by 
 - [How I Graduated While Working Full-Time (and Having a Family)](https://medium.com/illumination/how-i-graduated-while-working-full-time-and-having-a-family-176a97f64a5e)
 - [AI Is Writing Content: Are You Losing Your Job?](https://federicotrotta.medium.com/ai-is-writing-content-are-you-losing-your-job-8ce653dc7739)
 - [Can I Sell AI-Generated Images?](https://medium.com/mlearning-ai/can-i-sell-ai-generated-images-a5d4619c8e1b)
+
+## Career advices
 - [How I Stopped the Fear of “I Have to Know Everything”](https://betterhumans.pub/how-i-stopped-the-fear-of-i-have-to-know-everything-24fe86a1c8f4)
 - [Why I Stopped Sending CVs to Recruiters](https://betterhumans.pub/why-i-stopped-sending-cvs-to-recruiters-304a90eada69)
 - [Why You Should Cultivate your Hobbies (Without Feeling Guilty)](https://medium.com/illumination/why-you-should-cultivate-your-hobbies-without-feeling-guilty-aa5fa10ab670)
 - [Why You Shouldn’t Focus on Climbing the Corporate Ladder (and What You Should Do Instead)](https://betterhumans.pub/why-you-shouldnt-focus-on-climbing-the-corporate-ladder-and-what-you-should-do-instead-2da9306eef65)
+- [From Stability to Agility: How to Build a Sustainable Career in an Unpredictable World](https://betterhumans.pub/from-stability-to-agility-how-to-build-a-sustainable-career-in-an-unpredictable-world-33a60bd70fbd)
 
+
+<hr>
 <hr>
 
 # Guest articles
