@@ -41,7 +41,6 @@ Here's an overview of some of my articles on Medium.
 - [Some Philosophical Thoughts on Data Science](https://towardsdatascience.com/some-philosophical-thoughts-on-data-science-c33659ec63f6)
 - [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
 - [Mastering the Art of Regression Analysis: 5 Key Metrics Every Data Scientist Should Know](https://towardsdatascience.com/mastering-the-art-of-regression-analysis-5-key-metrics-every-data-scientist-should-know-1e2a8a2936f5)
-- [Mastering the Art of Regression Analysis: 5 Key Metrics Every Data Scientist Should Know](https://towardsdatascience.com/mastering-the-art-of-regression-analysis-5-key-metrics-every-data-scientist-should-know-1e2a8a2936f5)
 
 ## Miscellaneous
 - [Do You Want to Standardize and Speed Up Your SQL? Then Try RASGO!](https://medium.com/geekculture/do-you-want-to-standardize-and-speed-up-your-sql-then-try-rasgo-873349dd3fe)
