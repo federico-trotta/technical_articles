@@ -16,6 +16,7 @@ Here's an overview of some of my articles on Medium.
 - [Two Methods for Performing Graphical Residuals Analysis](https://towardsdatascience.com/two-methods-for-performing-graphical-residuals-analysis-6899fd4c78e5)
  - [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
  - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
+ - [Easy PDF Unlocking: How to Remove Passwords and Get Access in Minutes](https://levelup.gitconnected.com/easy-pdf-unlocking-how-to-remove-passwords-and-get-access-in-minutes-ad09ad8f5d38)
 
 
 ## Programming
@@ -23,6 +24,7 @@ Here's an overview of some of my articles on Medium.
 - [Python Loops: A Complete Guide On How To Iterate in Python](https://towardsdatascience.com/python-loops-a-complete-guide-on-how-to-iterate-in-python-b29e0d12211d)
 - [Bash to Python: The Ultimate Guide to Setting and Using Environment Variables](https://medium.com/codex/bash-to-python-the-ultimate-guide-to-setting-and-using-environment-variables-8535855e2ec4)
 - [Do You Need to Load Heavy Files on GitHub? Try This!](https://levelup.gitconnected.com/do-you-need-to-load-heavy-files-on-github-try-this-4fa415eebe1c)
+- [Python Classes Made Easy: The Definitive Guide to Object-Oriented Programming](https://towardsdatascience.com/python-classes-made-easy-the-definitive-guide-to-object-oriented-programming-881ed609fb6)
 
 
 ## Data Science
@@ -41,6 +43,10 @@ Here's an overview of some of my articles on Medium.
 - [Some Philosophical Thoughts on Data Science](https://towardsdatascience.com/some-philosophical-thoughts-on-data-science-c33659ec63f6)
 - [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
 - [Mastering the Art of Regression Analysis: 5 Key Metrics Every Data Scientist Should Know](https://towardsdatascience.com/mastering-the-art-of-regression-analysis-5-key-metrics-every-data-scientist-should-know-1e2a8a2936f5)
+- [Python Libraries: The Game Changer for Data Scientists](https://medium.com/mlearning-ai/python-libraries-the-game-changer-for-data-scientists-4539062b9811)
+
+## CYber Security
+- [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
 
 ## Miscellaneous
 - [Do You Want to Standardize and Speed Up Your SQL? Then Try RASGO!](https://medium.com/geekculture/do-you-want-to-standardize-and-speed-up-your-sql-then-try-rasgo-873349dd3fe)
@@ -57,6 +63,10 @@ Here's an overview of some of my articles on Medium.
 - [How I Graduated While Working Full-Time (and Having a Family)](https://medium.com/illumination/how-i-graduated-while-working-full-time-and-having-a-family-176a97f64a5e)
 - [From Gears to Code: How I Successfully Transitioned from Mechanical Engineering to Tech](https://medium.com/better-humans/from-gears-to-code-how-i-successfully-transitioned-from-mechanical-engineering-to-tech-44909e31cbb0)
 - [Three Reasons to Think Twice Before Becoming a Data Scientist](https://medium.com/mlearning-ai/three-reasons-to-think-twice-before-becoming-a-data-scientist-ba60c609e9e5)
+- [How To Land Your First Data Job in a Year (Even if You Start From 0)](https://medium.com/mlearning-ai/how-to-land-your-first-data-job-in-a-year-even-if-you-start-from-0-1ce2b484dbfe)
+- [How To Be a Successful Freelancer While Working at Your 9–5](https://medium.com/the-side-hustle-club/how-to-be-a-successful-freelancer-while-working-at-your-9-5-1a2146bdfcc5)
+- [Why You Shouldn’t Charge Your Clients Per Word As a Writer](https://medium.com/illuminations-mirror/why-you-shouldnt-charge-your-clients-per-word-as-a-writer-a596cd48d6d1)
+- [How To Develop a Rock-Solid Routine to Achieve Anything You Want](https://medium.com/illumination/how-to-develop-a-rock-solid-routine-to-achieve-anything-you-want-ca1abcf2cc6)
 
 
 <hr>
