@@ -17,6 +17,7 @@ Here's an overview of some of my articles on Medium.
  - [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
  - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
  - [Easy PDF Unlocking: How to Remove Passwords and Get Access in Minutes](https://levelup.gitconnected.com/easy-pdf-unlocking-how-to-remove-passwords-and-get-access-in-minutes-ad09ad8f5d38)
+ -[How To Write an Appealing Technical Article](https://medium.com/technical-excellence/how-to-write-an-appealing-technical-article-d5519669aa64)
 
 
 ## Programming
@@ -25,6 +26,7 @@ Here's an overview of some of my articles on Medium.
 - [Bash to Python: The Ultimate Guide to Setting and Using Environment Variables](https://medium.com/codex/bash-to-python-the-ultimate-guide-to-setting-and-using-environment-variables-8535855e2ec4)
 - [Do You Need to Load Heavy Files on GitHub? Try This!](https://levelup.gitconnected.com/do-you-need-to-load-heavy-files-on-github-try-this-4fa415eebe1c)
 - [Python Classes Made Easy: The Definitive Guide to Object-Oriented Programming](https://towardsdatascience.com/python-classes-made-easy-the-definitive-guide-to-object-oriented-programming-881ed609fb6)
+- [Mastering Modular Programming: How to Take Your Python Skills to the Next Level](https://towardsdatascience.com/mastering-modular-programming-how-to-take-your-python-skills-to-the-next-level-ba14339e8429)
 
 
 ## Data Science
@@ -44,8 +46,10 @@ Here's an overview of some of my articles on Medium.
 - [The Most Important Part Of a Data Science Project Is Not Machine Learning](https://medium.com/mlearning-ai/the-most-important-part-of-a-data-science-project-is-not-machine-learning-27c892415459)
 - [Mastering the Art of Regression Analysis: 5 Key Metrics Every Data Scientist Should Know](https://towardsdatascience.com/mastering-the-art-of-regression-analysis-5-key-metrics-every-data-scientist-should-know-1e2a8a2936f5)
 - [Python Libraries: The Game Changer for Data Scientists](https://medium.com/mlearning-ai/python-libraries-the-game-changer-for-data-scientists-4539062b9811)
+- [Make Your Tabular Data Stand Out via CLI With These Tips and Tricks](https://towardsdatascience.com/make-your-tabular-data-stand-out-via-cli-with-these-tips-and-tricks-a21f276b7ba9)
+- [Please: No More Flipping Coins in Data Science](https://towardsdatascience.com/please-no-more-flipping-coins-in-data-science-f21e893d4fbd)
 
-## CYber Security
+## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
 
 ## Miscellaneous
@@ -53,6 +57,7 @@ Here's an overview of some of my articles on Medium.
 - [Leveraging the Power of “5S” for Clean and Reusable Code](https://towardsdatascience.com/leveraging-the-power-of-5s-for-clean-and-reusable-code-44e1dc466af2)
 - [AI Is Writing Content: Are You Losing Your Job?](https://federicotrotta.medium.com/ai-is-writing-content-are-you-losing-your-job-8ce653dc7739)
 - [Can I Sell AI-Generated Images?](https://medium.com/mlearning-ai/can-i-sell-ai-generated-images-a5d4619c8e1b)
+- [ChatGPT Banned in Italy: What Happened And Why](https://medium.com/mlearning-ai/chatgpt-banned-in-italy-what-happened-and-why-316cd36dcb6d)
 
 ## Career advices
 - [How I Stopped the Fear of “I Have to Know Everything”](https://betterhumans.pub/how-i-stopped-the-fear-of-i-have-to-know-everything-24fe86a1c8f4)
@@ -67,6 +72,8 @@ Here's an overview of some of my articles on Medium.
 - [How To Be a Successful Freelancer While Working at Your 9–5](https://medium.com/the-side-hustle-club/how-to-be-a-successful-freelancer-while-working-at-your-9-5-1a2146bdfcc5)
 - [Why You Shouldn’t Charge Your Clients Per Word As a Writer](https://medium.com/illuminations-mirror/why-you-shouldnt-charge-your-clients-per-word-as-a-writer-a596cd48d6d1)
 - [How To Develop a Rock-Solid Routine to Achieve Anything You Want](https://medium.com/illumination/how-to-develop-a-rock-solid-routine-to-achieve-anything-you-want-ca1abcf2cc6)
+- [Breaking Free from the Assembly Line: My Journey to Remote Work Through Writing](https://medium.com/illumination/breaking-free-from-the-assembly-line-my-journey-to-remote-work-through-writing-8b4c5c9cc81e)
+- [Discover The Secret Sauce to Success: The Magic of Obsession](https://medium.com/illumination/discover-the-secret-sauce-to-success-the-magic-of-obsession-e8b0859dedef)
 
 
 <hr>
