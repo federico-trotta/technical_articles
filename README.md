@@ -48,6 +48,7 @@ Here's an overview of some of my articles on Medium.
 - [Python Libraries: The Game Changer for Data Scientists](https://medium.com/mlearning-ai/python-libraries-the-game-changer-for-data-scientists-4539062b9811)
 - [Make Your Tabular Data Stand Out via CLI With These Tips and Tricks](https://towardsdatascience.com/make-your-tabular-data-stand-out-via-cli-with-these-tips-and-tricks-a21f276b7ba9)
 - [Please: No More Flipping Coins in Data Science](https://towardsdatascience.com/please-no-more-flipping-coins-in-data-science-f21e893d4fbd)
+- [Mastering Linear Regression: The Definitive Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/mastering-linear-regression-the-definitive-guide-for-aspiring-data-scientists-7abd37fcb9ed)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
