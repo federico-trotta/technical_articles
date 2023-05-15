@@ -1,4 +1,4 @@
-# My Articles on MEDIUM
+# MY ARTICLES ON MEDIUM
 Here's an overview of some of my articles on Medium.
 
 ## "HOW TO"
@@ -49,6 +49,7 @@ Here's an overview of some of my articles on Medium.
 - [Make Your Tabular Data Stand Out via CLI With These Tips and Tricks](https://towardsdatascience.com/make-your-tabular-data-stand-out-via-cli-with-these-tips-and-tricks-a21f276b7ba9)
 - [Please: No More Flipping Coins in Data Science](https://towardsdatascience.com/please-no-more-flipping-coins-in-data-science-f21e893d4fbd)
 - [Mastering Linear Regression: The Definitive Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/mastering-linear-regression-the-definitive-guide-for-aspiring-data-scientists-7abd37fcb9ed)
+- [The Myth Of p-values: Why They’re Not the Holy Grail in Data Science](https://towardsdatascience.com/the-myth-of-p-values-why-theyre-not-the-holy-grail-in-data-science-a6636e27e489)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
@@ -80,6 +81,16 @@ Here's an overview of some of my articles on Medium.
 <hr>
 <hr>
 
-# Guest articles
+# GUEST ARTICLES
 
-- Butler Scientifics: [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
+
+## Butler Scientifics
+
+- [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
+<hr>
+
+## 4Securitas
+- [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
+- [ACSIA Cyber Risk Assessment (CRA) User Manual V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
+- [Bit Defender Integration](https://support.4securitas.com/hc/en-us/articles/8727592213405-Bit-Defender-Integration)
+- [How to unistall an agent on ACSIA](https://support.4securitas.com/hc/en-us/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
