@@ -50,6 +50,7 @@ Here's an overview of some of my articles on Medium.
 - [Please: No More Flipping Coins in Data Science](https://towardsdatascience.com/please-no-more-flipping-coins-in-data-science-f21e893d4fbd)
 - [Mastering Linear Regression: The Definitive Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/mastering-linear-regression-the-definitive-guide-for-aspiring-data-scientists-7abd37fcb9ed)
 - [The Myth Of p-values: Why They’re Not the Holy Grail in Data Science](https://towardsdatascience.com/the-myth-of-p-values-why-theyre-not-the-holy-grail-in-data-science-a6636e27e489)
+- [Classification Metrics: The Complete Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/classification-metrics-the-complete-guide-for-aspiring-data-scientists-9f02eab796ae)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
