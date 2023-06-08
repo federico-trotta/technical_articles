@@ -17,7 +17,7 @@ Here's an overview of some of my articles on Medium.
  - [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
  - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
  - [Easy PDF Unlocking: How to Remove Passwords and Get Access in Minutes](https://levelup.gitconnected.com/easy-pdf-unlocking-how-to-remove-passwords-and-get-access-in-minutes-ad09ad8f5d38)
- -[How To Write an Appealing Technical Article](https://medium.com/technical-excellence/how-to-write-an-appealing-technical-article-d5519669aa64)
+ - [How To Write an Appealing Technical Article](https://medium.com/technical-excellence/how-to-write-an-appealing-technical-article-d5519669aa64)
  - [How to Effectively Start Coding in the Era of ChatGPT](https://medium.com/towards-data-science/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
 
 
@@ -52,6 +52,7 @@ Here's an overview of some of my articles on Medium.
 - [Mastering Linear Regression: The Definitive Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/mastering-linear-regression-the-definitive-guide-for-aspiring-data-scientists-7abd37fcb9ed)
 - [The Myth Of p-values: Why They’re Not the Holy Grail in Data Science](https://towardsdatascience.com/the-myth-of-p-values-why-theyre-not-the-holy-grail-in-data-science-a6636e27e489)
 - [Classification Metrics: The Complete Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/classification-metrics-the-complete-guide-for-aspiring-data-scientists-9f02eab796ae)
+- [Unleashing the Power of Prompt Engineering for Data Scientists](https://medium.com/towards-data-science/unleashing-the-power-of-prompt-engineering-for-data-scientists-16b6d1f2bf85)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
@@ -84,6 +85,11 @@ Here's an overview of some of my articles on Medium.
 <hr>
 
 # GUEST ARTICLES
+
+## Stack Abuse
+- [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
+- [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
+<hr>
 
 
 ## Butler Scientifics
