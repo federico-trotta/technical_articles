@@ -63,6 +63,7 @@ Here's an overview of some of my articles on Medium.
 - [AI Is Writing Content: Are You Losing Your Job?](https://federicotrotta.medium.com/ai-is-writing-content-are-you-losing-your-job-8ce653dc7739)
 - [Can I Sell AI-Generated Images?](https://medium.com/mlearning-ai/can-i-sell-ai-generated-images-a5d4619c8e1b)
 - [ChatGPT Banned in Italy: What Happened And Why](https://medium.com/mlearning-ai/chatgpt-banned-in-italy-what-happened-and-why-316cd36dcb6d)
+- [Building a Responsible Future: Why AI Regulation is Vital for Manufacturing](https://medium.com/artificial-corner/building-a-responsible-future-why-ai-regulation-is-vital-for-manufacturing-d123343b91b6)
 
 ## Career advices
 - [How I Stopped the Fear of “I Have to Know Everything”](https://betterhumans.pub/how-i-stopped-the-fear-of-i-have-to-know-everything-24fe86a1c8f4)
@@ -102,3 +103,4 @@ Here's an overview of some of my articles on Medium.
 - [ACSIA Cyber Risk Assessment (CRA) User Manual V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
 - [Bit Defender Integration](https://support.4securitas.com/hc/en-us/articles/8727592213405-Bit-Defender-Integration)
 - [How to unistall an agent on ACSIA](https://support.4securitas.com/hc/en-us/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
+- [How To Be Prepared for a POC](https://support.4securitas.com/hc/en-us/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
