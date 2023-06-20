@@ -1,5 +1,5 @@
 # MY ARTICLES ON MEDIUM
-Here's an overview of some of my articles on Medium.
+Here's an overview of some of my articles on Medium, subdivided by category:
 
 ## "HOW TO"
 - [How to Study Python for Data Science](https://towardsdatascience.com/how-to-study-python-for-data-science-888a1ad649ae?source=your_stories_page-------------------------------------)
@@ -89,19 +89,45 @@ Here's an overview of some of my articles on Medium.
 # GUEST ARTICLES
 
 ## Stack Abuse
+Here're my contributions to [Stack Abuse](https://stackabuse.com/), a firm that helps developer through programming tutorial and courses:
+
 - [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 - [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
 <hr>
 
 
 ## Butler Scientifics
+Here's my contribution for [Butler Scientifics](https://www.butlerscientifics.com/), a Spanish firm developing AutoDiscovery, a software that automates the discovery phase when analyzing data:
 
 - [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
 <hr>
 
 ## 4Securitas
+Here're the products documentation for [4Securitas](https://4securitas.com/), a firm developing ACSIA, an XDR solution that
+makes your IT infrastructure safe, and  ACSIA CRA, a solution that evaluate the exposure of your IT infrastructure
+on the web:
+
+### English
 - [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
 - [ACSIA Cyber Risk Assessment (CRA) User Manual V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
 - [Bit Defender Integration](https://support.4securitas.com/hc/en-us/articles/8727592213405-Bit-Defender-Integration)
 - [How to unistall an agent on ACSIA](https://support.4securitas.com/hc/en-us/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
 - [How To Be Prepared for a POC](https://support.4securitas.com/hc/en-us/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
+
+### Italian
+- [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/it/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
+- [ACSIA Cyber Risk Assessment (CRA) Manuale Utente V23.xx.xxx](https://support.4securitas.com/hc/it/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
+- [Integrazione tra ACSIA e Bitdefender](https://support.4securitas.com/hc/it/articles/8727592213405-Bit-Defender-Integration)
+- [Come disinstallare un agente in ACSIA](https://support.4securitas.com/hc/it/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
+- [Come Prepararsi Per Un PoC](https://support.4securitas.com/hc/it/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
+
+<hr>
+
+## Codemotion
+Here're my articles for [Codemotion](https://www.codemotion.com/), an Italian firm that helps developer grow:
+
+### English
+- [Python: The Versatile Programming Language That Captivates Everyone](https://www.codemotion.com/magazine/languages/python/)
+
+### Italian
+- [Come programmare con Python. il linguaggio versatile che conquista tutti](https://www.codemotion.com/magazine/it/linguaggi-programmazione/programmare-con-python/)
