@@ -19,6 +19,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
  - [Easy PDF Unlocking: How to Remove Passwords and Get Access in Minutes](https://levelup.gitconnected.com/easy-pdf-unlocking-how-to-remove-passwords-and-get-access-in-minutes-ad09ad8f5d38)
  - [How To Write an Appealing Technical Article](https://medium.com/technical-excellence/how-to-write-an-appealing-technical-article-d5519669aa64)
  - [How to Effectively Start Coding in the Era of ChatGPT](https://medium.com/towards-data-science/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+ - [How To Easily Password-protect Your Microsoft Excel Files](https://medium.com/gitconnected/how-to-easily-password-protect-your-microsoft-excel-files-95bce30b9a8c)
 
 
 ## Programming
