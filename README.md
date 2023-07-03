@@ -55,6 +55,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 - [Classification Metrics: The Complete Guide For Aspiring Data Scientists](https://medium.com/towards-data-science/classification-metrics-the-complete-guide-for-aspiring-data-scientists-9f02eab796ae)
 - [Unleashing the Power of Prompt Engineering for Data Scientists](https://medium.com/towards-data-science/unleashing-the-power-of-prompt-engineering-for-data-scientists-16b6d1f2bf85)
 - [The Data Scientist’s Toolbox: Leveraging scikit-learn’s Top Features for Success](https://towardsdatascience.com/the-data-scientists-toolbox-leveraging-scikit-learn-s-top-features-for-success-d69a899267c5)
+- [A Gentle Introduction To Generative AI For Beginners](https://medium.com/towards-data-science/a-gentle-introduction-to-generative-ai-for-beginners-8c8752085900)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
