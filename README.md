@@ -13,13 +13,12 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 - [How Argparse can be useful in your Data Science projects](https://medium.com/mlearning-ai/how-argparse-can-be-useful-in-your-data-science-projects-ecf02bef3b07?source=your_stories_page-------------------------------------)
 - [How to access Google Sheets on Google Colaboratory](https://medium.com/mlearning-ai/how-to-access-google-sheets-on-google-colaboratory-8766b3a0996f?source=your_stories_page-------------------------------------)
 - [How to calculate RGB values for some images in Python](https://medium.com/analytics-vidhya/how-to-calculate-rgb-values-for-some-images-in-python-ccf9abcea8f3?source=your_stories_page-------------------------------------)
-- [Two Methods for Performing Graphical Residuals Analysis](https://towardsdatascience.com/two-methods-for-performing-graphical-residuals-analysis-6899fd4c78e5)
- - [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
  - [How To Easily Validate Your ML Models With Learning Curves](https://medium.com/mlearning-ai/how-to-easily-validate-your-ml-models-with-learning-curves-21cc01636083)
  - [Easy PDF Unlocking: How to Remove Passwords and Get Access in Minutes](https://levelup.gitconnected.com/easy-pdf-unlocking-how-to-remove-passwords-and-get-access-in-minutes-ad09ad8f5d38)
  - [How To Write an Appealing Technical Article](https://medium.com/technical-excellence/how-to-write-an-appealing-technical-article-d5519669aa64)
  - [How to Effectively Start Coding in the Era of ChatGPT](https://medium.com/towards-data-science/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
  - [How To Easily Password-protect Your Microsoft Excel Files](https://medium.com/gitconnected/how-to-easily-password-protect-your-microsoft-excel-files-95bce30b9a8c)
+ - [How To Solve Python Dependency Issues With Anaconda On Windows](https://medium.com/towards-data-science/how-to-solve-python-dependency-issues-with-anaconda-on-windows-d5033c9d2f9a)
 
 
 ## Programming
@@ -33,6 +32,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 
 ## Data Science
 - [What is the Difference between a Barplot and a Histogram?](https://towardsdatascience.com/what-is-the-difference-between-a-barplot-and-a-histogram-e62d0e532e7d)
+- [Two Methods for Performing Graphical Residuals Analysis](https://towardsdatascience.com/two-methods-for-performing-graphical-residuals-analysis-6899fd4c78e5)
 - [The Difference Between Correlation and Regression](https://towardsdatascience.com/the-difference-between-correlation-and-regression-134a5b367f7c?source=your_stories_page-------------------------------------)
 - [Understanding l1 and l2 Regularization](https://towardsdatascience.com/understanding-l1-and-l2-regularization-93918a5ac8d0?source=your_stories_page-------------------------------------)
 - [Logistic Regression: Let’s Clear It Up!](https://medium.com/mlearning-ai/logistic-regression-lets-clear-it-up-8bf20e9b328a?source=your_stories_page-------------------------------------)
@@ -72,6 +72,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 
 ## Career advices
 - [How I Stopped the Fear of “I Have to Know Everything”](https://betterhumans.pub/how-i-stopped-the-fear-of-i-have-to-know-everything-24fe86a1c8f4)
+- [How Fermi Problems can Boost your Data Science Career](https://medium.com/geekculture/how-fermi-problems-can-boost-your-data-science-career-8382cf7a27e3)
 - [Why I Stopped Sending CVs to Recruiters](https://betterhumans.pub/why-i-stopped-sending-cvs-to-recruiters-304a90eada69)
 - [Why You Should Cultivate your Hobbies (Without Feeling Guilty)](https://medium.com/illumination/why-you-should-cultivate-your-hobbies-without-feeling-guilty-aa5fa10ab670)
 - [Why You Shouldn’t Focus on Climbing the Corporate Ladder (and What You Should Do Instead)](https://betterhumans.pub/why-you-shouldnt-focus-on-climbing-the-corporate-ladder-and-what-you-should-do-instead-2da9306eef65)
