@@ -56,6 +56,8 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 - [Unleashing the Power of Prompt Engineering for Data Scientists](https://medium.com/towards-data-science/unleashing-the-power-of-prompt-engineering-for-data-scientists-16b6d1f2bf85)
 - [The Data Scientist’s Toolbox: Leveraging scikit-learn’s Top Features for Success](https://towardsdatascience.com/the-data-scientists-toolbox-leveraging-scikit-learn-s-top-features-for-success-d69a899267c5)
 - [A Gentle Introduction To Generative AI For Beginners](https://medium.com/towards-data-science/a-gentle-introduction-to-generative-ai-for-beginners-8c8752085900)
+- [Use Pandas Data Frames More Effectively with the Top 7 Column Operations](https://towardsdatascience.com/dominate-pandas-data-frames-with-the-top-7-column-operations-2a11521e9e2d)
+- [Beyond Numpy and Pandas: Unlocking the Potential of Lesser-Known Python Libraries](https://towardsdatascience.com/beyond-numpy-and-pandas-unlocking-the-potential-of-lesser-known-python-libraries-86d2bdc4d230)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
@@ -95,6 +97,7 @@ Here're my contributions to [Stack Abuse](https://stackabuse.com/), a firm that 
 
 - [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 - [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
+- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
 <hr>
 
 
