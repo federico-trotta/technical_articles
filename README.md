@@ -28,6 +28,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 - [Do You Need to Load Heavy Files on GitHub? Try This!](https://levelup.gitconnected.com/do-you-need-to-load-heavy-files-on-github-try-this-4fa415eebe1c)
 - [Python Classes Made Easy: The Definitive Guide to Object-Oriented Programming](https://towardsdatascience.com/python-classes-made-easy-the-definitive-guide-to-object-oriented-programming-881ed609fb6)
 - [Mastering Modular Programming: How to Take Your Python Skills to the Next Level](https://towardsdatascience.com/mastering-modular-programming-how-to-take-your-python-skills-to-the-next-level-ba14339e8429)
+- [Python Lists: The Definitive Guide for Working With Ordered Collections of Data](https://towardsdatascience.com/python-lists-the-definitive-guide-for-working-with-ordered-collections-of-data-53b06a194826)
 
 
 ## Data Science
@@ -58,6 +59,7 @@ Here's an overview of some of my articles on Medium, subdivided by category:
 - [A Gentle Introduction To Generative AI For Beginners](https://medium.com/towards-data-science/a-gentle-introduction-to-generative-ai-for-beginners-8c8752085900)
 - [Use Pandas Data Frames More Effectively with the Top 7 Column Operations](https://towardsdatascience.com/dominate-pandas-data-frames-with-the-top-7-column-operations-2a11521e9e2d)
 - [Beyond Numpy and Pandas: Unlocking the Potential of Lesser-Known Python Libraries](https://towardsdatascience.com/beyond-numpy-and-pandas-unlocking-the-potential-of-lesser-known-python-libraries-86d2bdc4d230)
+- [Building Interactive Data Visualizations in Python: An Introduction to Plotly](https://towardsdatascience.com/building-interactive-data-visualizations-in-python-an-introduction-to-plotly-3ffdd920fc63)
 
 ## Cyber Security
 - [The Shocking Truth About Cybersecurity: Hackers Can Steal Your Life in Minutes](https://medium.com/codex/the-shocking-truth-about-cybersecurity-hackers-can-steal-your-life-in-minutes-6509b1347db4)
@@ -98,6 +100,7 @@ Here're my contributions to [Stack Abuse](https://stackabuse.com/), a firm that 
 
 - [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 - [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
+- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
 - [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
 <hr>
 
