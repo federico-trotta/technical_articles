@@ -105,6 +105,7 @@ makes your IT infrastructure safe, and  ACSIA CRA, a solution that evaluate the 
 on the web:
 
 #### **English**
+- [How To Configure SSL Certificates in ACSIA](https://support.4securitas.com/hc/en-us/articles/12430785987485)
 - [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
 - [ACSIA Cyber Risk Assessment (CRA) User Manual V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
 - [Bit Defender Integration](https://support.4securitas.com/hc/en-us/articles/8727592213405-Bit-Defender-Integration)
