@@ -4,6 +4,7 @@ This repository represents my portfolio as a Technical Writer. So, here you'll f
 In particular, this is what you'll find here:
 - My [best articles on Medium](#my-articles-on-medium), subdivided by cathegory.
 - [Guest articles](#guest-articles), showing my best articles published on the most important website that talk about programming and AI.
+- [Translated/repurposed articles](#translatedrepurposed-articles), where you'll find my articles that have been translated into other languages, or that have been repurposed on other blogs.
 - [Product documentation](#product-documentation), showing all the work I've done in documenting digital products and solutions.
 
 ## **MY ARTICLES ON MEDIUM**
@@ -88,6 +89,13 @@ Here's my contribution for [Butler Scientifics](https://www.butlerscientifics.co
 - [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
 
 
+## **TRANSLATED/REPURPOSED ARTICLES**
+Here you find my articles that have been transated in other languages or that have been repurposed on other blogs.
+
+### **Translated**
+[Planeta ChatBot](https://planetachatbot.com/) translated into Spanish and published my article "How to Effectively Start Coding in the Era of ChatGPT":
+- [Cómo empezar a programar eficazmente en la era de ChatGPT](https://planetachatbot.com/como-empezar-a-programar-en-era-de-chatgpt/)
+
 ## **PRODUCT DOCUMENTATION**
 Here you find the articles and the documentasion I created for some digital products and solutions.
 
@@ -103,7 +111,7 @@ on the web:
 - [How to unistall an agent on ACSIA](https://support.4securitas.com/hc/en-us/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
 - [How To Be Prepared for a POC](https://support.4securitas.com/hc/en-us/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
 
-#### **talian**
+#### **Italian**
 - [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/it/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
 - [ACSIA Cyber Risk Assessment (CRA) Manuale Utente V23.xx.xxx](https://support.4securitas.com/hc/it/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
 - [Integrazione tra ACSIA e Bitdefender](https://support.4securitas.com/hc/it/articles/8727592213405-Bit-Defender-Integration)
