@@ -79,9 +79,11 @@ Here are my articles for [Codemotion](https://www.codemotion.com/), an Italian f
 
 #### **English**
 - [Python: The Versatile Programming Language That Captivates Everyone](https://www.codemotion.com/magazine/languages/python/)
+- [Data Analysis Made Easy: Mastering Pandas for Insightful Results](https://www.codemotion.com/magazine/data-science/data-analysis-made-easy-mastering-pandas-for-insightful-results/)
 
 #### **Italian**
 - [Come programmare con Python. il linguaggio versatile che conquista tutti](https://www.codemotion.com/magazine/it/linguaggi-programmazione/programmare-con-python/)
+- [L’analisi dei dati resa semplice: padroneggia Pandas per ottenere risultati dai tuoi dati](https://www.codemotion.com/magazine/it/scienza-dei-dati/analisi-dei-dati-pandas/)
 
 ### **Butler Scientifics**
 Here's my contribution for [Butler Scientifics](https://www.butlerscientifics.com/), a Spanish firm developing AutoDiscovery, a software that automates the discovery phase when analyzing data:
@@ -113,6 +115,7 @@ on the web:
 - [How To Be Prepared for a POC](https://support.4securitas.com/hc/en-us/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
 
 #### **Italian**
+- [Come Configurare i Certificati SSL in ACSIA](https://support.4securitas.com/hc/it/articles/12430785987485)
 - [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/it/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
 - [ACSIA Cyber Risk Assessment (CRA) Manuale Utente V23.xx.xxx](https://support.4securitas.com/hc/it/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
 - [Integrazione tra ACSIA e Bitdefender](https://support.4securitas.com/hc/it/articles/8727592213405-Bit-Defender-Integration)
