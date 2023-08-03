@@ -72,6 +72,7 @@ Here are my contributions to [Stack Abuse](https://stackabuse.com/), a firm that
 - [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
 - [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
 - [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
+- [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
 
 
 ### **Codemotion**
