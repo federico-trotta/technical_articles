@@ -92,12 +92,17 @@ Here's my contribution for [Butler Scientifics](https://www.butlerscientifics.co
 - [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
 
 
-## **TRANSLATED/REPURPOSED ARTICLES**
+## **TRANSLATED AND REPURPOSED ARTICLES**
 Here you find my articles that have been transated in other languages or that have been repurposed on other blogs.
 
 ### **Translated**
 [Planeta ChatBot](https://planetachatbot.com/) translated into Spanish and published my article "How to Effectively Start Coding in the Era of ChatGPT":
 - [Cómo empezar a programar eficazmente en la era de ChatGPT](https://planetachatbot.com/como-empezar-a-programar-en-era-de-chatgpt/)
+- [Introducción a la IA generativa para principiantes](https://planetachatbot.com/una-suave-introduccion-a-la-ia-generativa-para-principiantes/)
+
+### **Repurposed**
+[KDnuggets](https://www.kdnuggets.com/) repurposed the following articles I wrote on Towards Data Science:
+- [Beyond Numpy and Pandas: Unlocking the Potential of Lesser-Known Python Libraries](https://www.kdnuggets.com/2023/08/beyond-numpy-pandas-unlocking-potential-lesserknown-python-libraries.html)
 
 ## **PRODUCT DOCUMENTATION**
 Here you find the articles and the documentasion I created for some digital products and solutions.
