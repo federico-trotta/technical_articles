@@ -1,13 +1,8 @@
-# **INTRODUCTION**
-This repository represents my portfolio as a Technical Writer. So, here you'll find the best works I did in this years.
+## **MY BEST ARTICLES ON MEDIUM**
+With tens of published articles, I'm contributing as a writer on Medium, particularly with the established Towards Data Science website.
 
-In particular, this is what you'll find here:
-- My [best articles on Medium](#my-articles-on-medium), subdivided by cathegory.
-- [Guest articles](#guest-articles), showing my best articles published on the most important website that talk about programming and AI.
-- [Translated/repurposed articles](#translatedrepurposed-articles), where you'll find my articles that have been translated into other languages, or that have been repurposed on other blogs.
-- [Product documentation](#product-documentation), showing all the work I've done in documenting digital products and solutions.
+I have published articles about a variety of topics, including Python programming, statistical concepts for Data Scientists, Machine Learning, technology, and programming in general.
 
-## **MY ARTICLES ON MEDIUM**
 Here's an overview of my best articles on Medium, subdivided by category:
 
 ### **"HOW TO"**
@@ -61,69 +56,3 @@ Here's an overview of my best articles on Medium, subdivided by category:
 - [Building Interactive Data Visualizations in Python: An Introduction to Plotly](https://towardsdatascience.com/building-interactive-data-visualizations-in-python-an-introduction-to-plotly-3ffdd920fc63)
 - [Can I Sell AI-Generated Images?](https://medium.com/mlearning-ai/can-i-sell-ai-generated-images-a5d4619c8e1b)
 - [Building a Responsible Future: Why AI Regulation is Vital for Manufacturing](https://medium.com/artificial-corner/building-a-responsible-future-why-ai-regulation-is-vital-for-manufacturing-d123343b91b6)
-
-
-## **GUEST ARTICLES**
-Here are the articles I created for different companies.
-
-### **Stack Abuse**
-Here are my contributions to [Stack Abuse](https://stackabuse.com/), a firm that helps developer through programming tutorial and courses:
-
-- [Finding Numbers in Various Data Types in Python](https://stackabuse.com/finding-numbers-in-various-data-types-in-python/)
-- [Python Dictionary Comprehension: A Fast and Flexible Way to Build Dictionaries](https://stackabuse.com/python-dictionary-comprehension-a-fast-and-flexible-way-to-build-dictionaries/)
-- [Data Integrity: How OrderedDict Preserves Key Order in Python](https://stackabuse.com/data-integrity-how-ordereddict-preserves-key-order-in-python/)
-- [The Power of Indexing: Boosting Data Wrangling Efficiency with Pandas](https://stackabuse.com/the-power-of-indexing-boosting-data-wrangling-efficiency-with-pandas/)
-
-
-### **Codemotion**
-Here are my articles for [Codemotion](https://www.codemotion.com/), an Italian firm that helps developer grow:
-
-#### **English**
-- [Python: The Versatile Programming Language That Captivates Everyone](https://www.codemotion.com/magazine/languages/python/)
-- [Data Analysis Made Easy: Mastering Pandas for Insightful Results](https://www.codemotion.com/magazine/data-science/data-analysis-made-easy-mastering-pandas-for-insightful-results/)
-
-#### **Italian**
-- [Come programmare con Python. il linguaggio versatile che conquista tutti](https://www.codemotion.com/magazine/it/linguaggi-programmazione/programmare-con-python/)
-- [L’analisi dei dati resa semplice: padroneggia Pandas per ottenere risultati dai tuoi dati](https://www.codemotion.com/magazine/it/scienza-dei-dati/analisi-dei-dati-pandas/)
-
-### **Butler Scientifics**
-Here's my contribution for [Butler Scientifics](https://www.butlerscientifics.com/), a Spanish firm developing AutoDiscovery, a software that automates the discovery phase when analyzing data:
-
-- [Unlock the Power of Automation: Why Automating Data Exploration is Essential for Your Efficiency](https://www.butlerscientifics.com/single-post/unlock-the-power-of-automation-why-automating-data-exploration-is-essential-for-your-efficiency)
-
-
-## **TRANSLATED AND REPURPOSED ARTICLES**
-Here you find my articles that have been transated in other languages or that have been repurposed on other blogs.
-
-### **Translated**
-[Planeta ChatBot](https://planetachatbot.com/) translated into Spanish and published my article "How to Effectively Start Coding in the Era of ChatGPT":
-- [Cómo empezar a programar eficazmente en la era de ChatGPT](https://planetachatbot.com/como-empezar-a-programar-en-era-de-chatgpt/)
-- [Introducción a la IA generativa para principiantes](https://planetachatbot.com/una-suave-introduccion-a-la-ia-generativa-para-principiantes/)
-
-### **Repurposed**
-[KDnuggets](https://www.kdnuggets.com/) repurposed the following articles I wrote on Towards Data Science:
-- [Beyond Numpy and Pandas: Unlocking the Potential of Lesser-Known Python Libraries](https://www.kdnuggets.com/2023/08/beyond-numpy-pandas-unlocking-potential-lesserknown-python-libraries.html)
-
-## **PRODUCT DOCUMENTATION**
-Here you find the articles and the documentasion I created for some digital products and solutions.
-
-### **4Securitas**
-Here are the products documentation for [4Securitas](https://4securitas.com/), a firm developing ACSIA, an XDR solution that
-makes your IT infrastructure safe, and  ACSIA CRA, a solution that evaluate the exposure of your IT infrastructure
-on the web:
-
-#### **English**
-- [How To Configure SSL Certificates in ACSIA](https://support.4securitas.com/hc/en-us/articles/12430785987485)
-- [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
-- [ACSIA Cyber Risk Assessment (CRA) User Manual V23.xx.xxx](https://support.4securitas.com/hc/en-us/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
-- [Bit Defender Integration](https://support.4securitas.com/hc/en-us/articles/8727592213405-Bit-Defender-Integration)
-- [How to unistall an agent on ACSIA](https://support.4securitas.com/hc/en-us/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
-- [How To Be Prepared for a POC](https://support.4securitas.com/hc/en-us/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
-
-#### **Italian**
-- [Come Configurare i Certificati SSL in ACSIA](https://support.4securitas.com/hc/it/articles/12430785987485)
-- [Release Notes ACSIA CRA V23.xx.xxx](https://support.4securitas.com/hc/it/articles/10365845894429-Release-Notes-ACSIA-CRA-V23-xx-xxx)
-- [ACSIA Cyber Risk Assessment (CRA) Manuale Utente V23.xx.xxx](https://support.4securitas.com/hc/it/articles/8867552792605-ACSIA-Cyber-Risk-Assessment-CRA-User-Manual-V23-xx-xxx)
-- [Integrazione tra ACSIA e Bitdefender](https://support.4securitas.com/hc/it/articles/8727592213405-Bit-Defender-Integration)
-- [Come disinstallare un agente in ACSIA](https://support.4securitas.com/hc/it/articles/9363867420189-How-to-unistall-an-agent-on-ACSIA)
-- [Come Prepararsi Per Un PoC](https://support.4securitas.com/hc/it/articles/10089564353693-How-To-Be-Prepared-For-a-PoC)
